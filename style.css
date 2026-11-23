@@ -1,0 +1,117 @@
+body {
+    font-family: Tahoma, Arial, sans-serif;
+    font-size: 17px;
+    color: #493628;
+    background-color: #FAF6EF;
+    text-align: right;
+}
+
+.header {
+    background-color: #5C3A21;
+    color: #FFFFFF;
+}
+
+.brand {
+    font-size: 38px;
+    color: #FFFFFF;
+}
+
+.navigation {
+    font-size: 16px;
+    text-align: left;
+}
+
+a {
+    color: #5C3A21;
+}
+
+.nav-link {
+    color: #FFDFBA;
+}
+
+.eyebrow {
+    color: #76513B;
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+.intro {
+    color: #665547;
+    font-size: 18px;
+}
+
+.product {
+    background-color: #FFFFFF;
+}
+
+.basket-card {
+    float: right;
+}
+
+.macrame-card {
+    float: right;
+}
+
+.product-gap {
+    float: right;
+}
+
+.category {
+    color: #76513B;
+    font-size: 15px;
+}
+
+.product-title {
+    font-size: 23px;
+}
+
+.price {
+    font-size: 31px;
+    font-weight: bold;
+    color: #5C3A21;
+}
+
+.currency {
+    font-size: 17px;
+    font-weight: normal;
+}
+
+.material {
+    font-size: 15px;
+    color: #665547;
+}
+
+.summary {
+    color: #493628;
+    background-color: #E8D9C5;
+    text-align: center;
+}
+
+.summary-label {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.summary-total {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.footer {
+    text-align: center;
+    color: #493628;
+    background-color: #EEE5D9;
+}
+
+.credit {
+    font-size: 15px;
+    font-style: normal;
+}
